@@ -30,7 +30,7 @@ Output: Ratul and Fahim lives in Rangpur
  ```
  - Find out how many images are in the given array:
    ```
-["photo1.jpg", "doc1.pdf", "doc2.docx", "photo2.png", "doc3.pdf", "msoffice.exe", "photo3.jpg"]
+   ["photo1.jpg", "doc1.pdf", "doc2.docx", "photo2.png", "doc3.pdf", "msoffice.exe", "photo3.jpg"]
 Output: 3
  ```
  - Write a program to convert each 1st char to uppercase from a string.
