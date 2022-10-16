@@ -40,7 +40,7 @@ Output: Rahim Lives in Sylhet
  ```
  
  
- ## Solved
+ ## Problems 
  - Extracting_The_Transaction_Id
  - Extracting_Digits_And_Finding_Total_Cost_of_Shirt_And_Sharee
  - Extracting_Digits_And_Finding_Laptop_Price
