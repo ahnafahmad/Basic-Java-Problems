@@ -1,4 +1,4 @@
-# Java Basic Problems on If-Else & Loops & it's Solutions
+# Java Basic Problems on Function_Array & it's Solutions
 
 ## Problems 
 - Write a program to check if inputted letter is small or capital.
