@@ -1,7 +1,7 @@
-# Java Basic Problems on If-Else & Loops , Function_Array & String Manipulation And Their Solutions <br>
+# Java Basic Problems on If-Else & Loops , Function_Array & String Manipulation And Their Solutions <br><br>
 
 
-## If-Else Problems & Solutions<br>
+## If-Else Problems & Solutions<br><br>
 
 ### Problems 
 - Write a program to check if inputted letter is small or capital.
@@ -16,7 +16,7 @@ E.g 120.546 & 120.241
  - Write a program to print prime numbers from 2 to n.
  - Write a program to generate 2 random numbers which will not be shown to the user. Take a user input and match it with any of the random numbers. If correct give it 1 point and if incorrect, do not give it any point. Finally, repeat this for 10 times and count the point user achieved.
  - Write a program to sum of user input until users input ‘q’ from keyboard.
- - Write a program to enter the numbers till the user wants and at the end, the program should display the largest and smallest numbers user entered.<br>
+ - Write a program to enter the numbers till the user wants and at the end, the program should display the largest and smallest numbers user entered.<br><br>
  
  
  ### Solved
@@ -29,11 +29,11 @@ E.g 120.546 & 120.241
  - Print_Prime_Numbers
  - Guessing_the_Number_from_Generate_Random_Numbers
  - Sum_of_User_Input_until_pressing_q
- - Display_The_Largest_And_Smallest_Numbers<br><br>
+ - Display_The_Largest_And_Smallest_Numbers<br><br><br>
 
 
 
-## Function_Array & Solutionsns<br>
+## Function_Array & Solutions<br><br>
 
 ### Problems 
 - Take input from a user and check if the number exists in the array.
@@ -74,7 +74,7 @@ Let,
 username: admin
 password: admin@123
  ```
- - Generate 20 random numbers from 0 to 100 and print the max, min and duplicate random numbers (if any).<br>
+ - Generate 20 random numbers from 0 to 100 and print the max, min and duplicate random numbers (if any).<br><br>
  
  
  ### Solved
@@ -84,10 +84,10 @@ password: admin@123
  - Searching_the_Item_And_TotalSum_of_Price
  - Find_Out_Average_Evan_And_Odd_Number
  - Validate_Login_Credentials
- - Generate_Random_Numbers_And_Print_Max_Min_Dup <br><br>
+ - Generate_Random_Numbers_And_Print_Max_Min_Dup <br><br><br>
 
 
-## String Manipulation Problems & Solutions<br>
+## String Manipulation Problems & Solutions<br><br>
 
 ### Problems 
 - Extract the transaction ID from the HTML body.
@@ -125,7 +125,7 @@ password: admin@123
 - Write a program to convert each 1st char to uppercase from a string.
  ```
    Input: rahim lives in sylhet
-   Output: Rahim Lives in Sylhet<br>
+   Output: Rahim Lives in Sylhet<br><br>
  ```
  
  
