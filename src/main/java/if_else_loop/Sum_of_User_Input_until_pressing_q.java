@@ -6,7 +6,7 @@ package if_else_loop;
 
 import java.util.Scanner;
 
-public class Sum_of_User_Input {
+public class Sum_of_User_Input_until_pressing_q {
     public static void main(String[] args) {
 
         int sum = 0;

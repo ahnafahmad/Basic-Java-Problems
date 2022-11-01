@@ -15,11 +15,12 @@ public class Find_Factorial_Number {
         Scanner input = new Scanner(System.in);
         int num = input.nextInt();
 
-        int fact = 1;
+        long fact = 1;
 
         for(int i = 1; i<=num; i++){
 
-        fact = fact* i;
+        fact = fact * i;
+
         }
 
         System.out.println("\nThe factorial of the Number is: " + fact);
